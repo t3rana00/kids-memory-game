@@ -14,8 +14,7 @@ A fun and educational memory game for kids built with **Jetpack Compose** for An
 2. Tap on the cards to flip them and find matching pairs.
 3. Complete the game by matching all pairs.
 
-## 🎨 Screenshots
-*(Add some screenshots here)*
+
 
 ## 🛠️ Built With
 - **Kotlin** and **Jetpack Compose**
